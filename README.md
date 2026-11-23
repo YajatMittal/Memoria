@@ -18,6 +18,18 @@
 
 ---
 
+## Demo
+
+<p align="center">
+  <a href="docs/demo/memoria-demo.mp4">
+    <img src="docs/demo/memoria-demo.gif" width="720" alt="Memoria demo: asking “What did I do yesterday?” and getting a summary built from the day's photos" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="docs/demo/memoria-demo.mp4"><strong>Watch the full 1:40 walkthrough</strong></a>: capturing moments, the memory calendar, Ask Memoria, the community forum and the memory game.
+</p>
+
 ## Why Memoria?
 
 More than 55 million people worldwide live with dementia, and Alzheimer's disease is the most common cause. One of its earliest and most painful symptoms is losing track of recent events: what you did this morning, who visited yesterday, where you went last weekend.
