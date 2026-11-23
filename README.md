@@ -245,7 +245,7 @@ For the app: `cd frontend && npm run typecheck`.
 
 ## Project history
 
-Memoria began as a hackathon project at CNLC 2024. It was later refactored: secrets were moved out of the client, the backend was rebuilt as a modular Flask app with token auth and tests, and the app was redesigned around accessibility.
+Memoria began as a project for Canadian National Leadership Conference (CNLC) 2024. It was later refactored: secrets were moved out of the client, the backend was rebuilt as a modular Flask app with token auth and tests, and the app was redesigned around accessibility.
 
 ## Team
 
