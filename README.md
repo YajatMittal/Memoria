@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  ▶️ <a href="docs/demo/memoria-demo.mp4"><strong>Watch the full 1:40 walkthrough</strong></a>: capturing moments, the memory calendar, Ask Memoria, the community forum and the memory game.
+  ▶️ <a href="https://youtu.be/pQj4Kg5lDa4"><strong>Watch the full 1:40 walkthrough</strong></a>: capturing moments, the memory calendar, Ask Memoria, the community forum and the memory game.
 </p>
 
 ## Why Memoria?
