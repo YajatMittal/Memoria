@@ -1,0 +1,44 @@
+# Secrets — never commit these. Use the .env.example files as templates.
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Backend runtime data (SQLite database, uploaded photos)
+backend/instance/
+*.db
+*.sqlite3
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+*.tsbuildinfo
+.metro-health-check*
+npm-debug.*
+yarn-error.*
+
+# Native build artifacts & signing keys
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# OS / editor noise
+.DS_Store
+desktop.ini
+Thumbs.db
+.idea/
+.vscode/
